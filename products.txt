@@ -1,0 +1,25 @@
+
+name           department name        price       stock quantity 
+
+
+instant pot  			kitchen wares    129.95         19
+
+porcelain egg cups	   kitchen wares     16.95           9  
+
+iphone x				devices        1132.96          6
+ 
+nest thermostat   	    homewears      224.00          56
+
+dyson ball vacuum         homewears     307.70          13                                                                                                                                                                                                                                                                
+
+sony headphones 		electronics      37.95        16
+
+ipad air				 devices        179.99        21
+
+amazon fire TV stick      electronics     39.99      144
+
+Andis outliner 			grooming          59.44       34  
+ 
+Amazona Echo			devices         179.99        89
+
+
